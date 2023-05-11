@@ -22,7 +22,7 @@ func main() {
 	router := gin.Default()
 	router.GET("/todos", getTodos)
 	router.POST("/todos", addTodo)
-	router.Run("localhost:9090")
+	router.Run("localhost:1234")
 }
 
 func getTodos(context *gin.Context) {
