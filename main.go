@@ -23,7 +23,7 @@ func main() {
 	router := gin.Default()
 	router.GET("/todos", getTodos)
 	router.POST("/todos", addTodo)
-	router.Run("0.0.0.0:1234")
+	router.Run("0.0.0.0:8080")
 }
 
 func getTodos(context *gin.Context) {
