@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"os"
 
 	"github.com/gin-gonic/gin"
 )
@@ -22,6 +23,7 @@ var todos = []todo{
 func main() {
 	router := gin.Default()
 	router.GET("/todos", getTodos)
+	router.GET("/locations", getData)
 	router.POST("/todos", addTodo)
 	router.Run("0.0.0.0:8080")
 }
@@ -40,4 +42,15 @@ func addTodo(context *gin.Context) {
 
 	todos = append(todos, newTodo)
 	context.IndentedJSON(http.StatusCreated, newTodo)
+}
+
+func getData(context *gin.Context) {
+	jsonFile, err := os.Open("data/data.json")
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	context.BindJSON(&jsonFile)
+	context.IndentedJSON(http.StatusOK, jsonFile)
 }

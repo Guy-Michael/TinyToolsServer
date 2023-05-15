@@ -1,0 +1,834 @@
+{
+    "United States": {
+        "code": "US",
+        "cities": [
+            {
+                "cityName": "New York",
+                "stateCode": "NY"
+            },
+            {
+                "cityName": "Los Angeles",
+                "stateCode": "CA"
+            },
+            {
+                "cityName": "Chicago",
+                "stateCode": "IL"
+            },
+            {
+                "cityName": "Miami",
+                "stateCode": "FL"
+            },
+            {
+                "cityName": "Dallas",
+                "stateCode": "TX"
+            },
+            {
+                "cityName": "Houston",
+                "stateCode": "TX"
+            },
+            {
+                "cityName": "Philadelphia",
+                "stateCode": "PA"
+            },
+            {
+                "cityName": "Atlanta",
+                "stateCode": "GA"
+            },
+            {
+                "cityName": "Washington",
+                "stateCode": "DC"
+            },
+            {
+                "cityName": "Boston",
+                "stateCode": "MA"
+            },
+            {
+                "cityName": "Phoenix",
+                "stateCode": "AZ"
+            },
+            {
+                "cityName": "Detroit",
+                "stateCode": "MI"
+            },
+            {
+                "cityName": "Seattle",
+                "stateCode": "WA"
+            },
+            {
+                "cityName": "San Francisco",
+                "stateCode": "CA"
+            },
+            {
+                "cityName": "San Diego",
+                "stateCode": "CA"
+            },
+            {
+                "cityName": "Minneapolis",
+                "stateCode": "MN"
+            },
+            {
+                "cityName": "Brooklyn",
+                "stateCode": "NY"
+            },
+            {
+                "cityName": "Tampa",
+                "stateCode": "FL"
+            },
+            {
+                "cityName": "Denver",
+                "stateCode": "CO"
+            },
+            {
+                "cityName": "Queens",
+                "stateCode": "NY"
+            },
+            {
+                "cityName": "Baltimore",
+                "stateCode": "MD"
+            },
+            {
+                "cityName": "Las Vegas",
+                "stateCode": "NV"
+            },
+            {
+                "cityName": "St. Louis",
+                "stateCode": "MO"
+            },
+            {
+                "cityName": "Portland",
+                "stateCode": "OR"
+            },
+            {
+                "cityName": "Riverside",
+                "stateCode": "CA"
+            },
+            {
+                "cityName": "Orlando",
+                "stateCode": "FL"
+            },
+            {
+                "cityName": "Sacramento",
+                "stateCode": "CA"
+            },
+            {
+                "cityName": "San Antonio",
+                "stateCode": "TX"
+            },
+            {
+                "cityName": "San Jose",
+                "stateCode": "CA"
+            },
+            {
+                "cityName": "Pittsburgh",
+                "stateCode": "PA"
+            },
+            {
+                "cityName": "Cincinnati",
+                "stateCode": "OH"
+            },
+            {
+                "cityName": "Manhattan",
+                "stateCode": "NY"
+            },
+            {
+                "cityName": "Cleveland",
+                "stateCode": "OH"
+            },
+            {
+                "cityName": "Indianapolis",
+                "stateCode": "IN"
+            },
+            {
+                "cityName": "Austin",
+                "stateCode": "TX"
+            },
+            {
+                "cityName": "Kansas City",
+                "stateCode": "MO"
+            },
+            {
+                "cityName": "Columbus",
+                "stateCode": "OH"
+            },
+            {
+                "cityName": "Providence",
+                "stateCode": "RI"
+            },
+            {
+                "cityName": "Salt Lake City",
+                "stateCode": "UT"
+            },
+            {
+                "cityName": "Nashville",
+                "stateCode": "TN"
+            },
+            {
+                "cityName": "Raleigh",
+                "stateCode": "NC"
+            },
+            {
+                "cityName": "Richmond",
+                "stateCode": "VA"
+            },
+            {
+                "cityName": "Oklahoma City",
+                "stateCode": "OK"
+            },
+            {
+                "cityName": "Hartford",
+                "stateCode": "CT"
+            },
+            {
+                "cityName": "Honolulu",
+                "stateCode": "HI"
+            },
+            {
+                "cityName": "Columbia",
+                "stateCode": "SC"
+            },
+            {
+                "cityName": "Baton Rouge",
+                "stateCode": "LA"
+            }
+        ]
+    },
+    "Argentina": {
+        "code": "AR",
+        "cities": [
+            {
+                "cityName": "Buenos Aires"
+            },
+            {
+                "cityName": "Cordoba"
+            },
+            {
+                "cityName": "Rosario"
+            },
+            {
+                "cityName": "Santiago del Estero"
+            },
+            {
+                "cityName": "Comodoro Rivadavia"
+            },
+            {
+                "cityName": "Mar del Plata"
+            },
+            {
+                "cityName": "San Miguel de Tucuman"
+            }
+        ]
+    },
+    "Australia": {
+        "code": "AU",
+        "cities": [
+            {
+                "cityName": "Sydney"
+            },
+            {
+                "cityName": "Melbourne"
+            },
+            {
+                "cityName": "Brisbane"
+            },
+            {
+                "cityName": "Perth"
+            },
+            {
+                "cityName": "Adelaide"
+            },
+            {
+                "cityName": "Gold Coast"
+            },
+            {
+                "cityName": "Cranbourne"
+            },
+            {
+                "cityName": "Canberra"
+            },
+            {
+                "cityName": "Central Coast"
+            },
+            {
+                "cityName": "Wollongong"
+            },
+            {
+                "cityName": "Hobart"
+            }
+        ]
+    },
+    "Austria": {
+        "code": "AT",
+        "cities": [
+            {
+                "cityName": "Vienna"
+            },
+            {
+                "cityName": "Graz"
+            },
+            {
+                "cityName": "Linz"
+            }
+        ]
+    },
+    "Bangladesh": {
+        "code": "BD",
+        "cities": [
+            {
+                "cityName": "Dhaka"
+            },
+            {
+                "cityName": "Chattogram"
+            },
+            {
+                "cityName": "Narayanganj"
+            },
+            {
+                "cityName": "Khulna"
+            },
+            {
+                "cityName": "Gazipura"
+            }
+        ]
+    },
+    "Belarus": {
+        "code": "BY",
+        "cities": [
+            {
+                "cityName": "Minsk"
+            }
+        ]
+    },
+    "Belgium": {
+        "code": "BE",
+        "cities": [
+            {
+                "cityName": "Brussels"
+            }
+        ]
+    },
+    "Brazil": {
+        "code": "BR",
+        "cities": [
+            {
+                "cityName": "Sao Paulo"
+            },
+            {
+                "cityName": "Rio de Janeiro"
+            },
+            {
+                "cityName": "Belo Horizonte"
+            },
+            {
+                "cityName": "Brasilia"
+            }
+        ]
+    },
+    "Canada": {
+        "code": "CA",
+        "cities": [
+            {
+                "cityName": "Toronto"
+            },
+            {
+                "cityName": "Montreal"
+            },
+            {
+                "cityName": "Vancouver"
+            },
+            {
+                "cityName": "Edmonton"
+            },
+            {
+                "cityName": "Ottawa"
+            },
+            {
+                "cityName": "Winnipeg"
+            },
+            {
+                "cityName": "Quebec City"
+            }
+        ]
+    },
+    "Cyprus": {
+        "code": "CY",
+        "cities": [
+            {
+                "cityName": "Nicosia"
+            },
+            {
+                "cityName": "Limassol"
+            },
+            {
+                "cityName": "Paphos"
+            }
+        ]
+    },
+    "Denmark": {
+        "code": "DK",
+        "cities": [
+            {
+                "cityName": "Copenhagen"
+            }
+        ]
+    },
+    "France": {
+        "code": "FR",
+        "cities": [
+            {
+                "cityName": "Paris"
+            },
+            {
+                "cityName": "Marseille"
+            },
+            {
+                "cityName": "Lyon"
+            },
+            {
+                "cityName": "Toulouse"
+            },
+            {
+                "cityName": "Nice"
+            }
+        ]
+    },
+    "Germany": {
+        "code": "DE",
+        "cities": [
+            {
+                "cityName": "Berlin"
+            },
+            {
+                "cityName": "Stuttgart"
+            },
+            {
+                "cityName": "Munich"
+            },
+            {
+                "cityName": "Hamburg"
+            },
+            {
+                "cityName": "Cologne"
+            },
+            {
+                "cityName": "Frankfurt"
+            },
+            {
+                "cityName": "Dusseldorf"
+            }
+        ]
+    },
+    "Greece": {
+        "code": "GR",
+        "cities": [
+            {
+                "cityName": "Athens"
+            },
+            {
+                "cityName": "Thessaloniki"
+            },
+            {
+                "cityName": "Piraeus"
+            }
+        ]
+    },
+    "Hong Kong": {
+        "code": "HK",
+        "cities": [
+            {
+                "cityName": "Hong Kong"
+            }
+        ]
+    },
+    "Hungary": {
+        "code": "HU",
+        "cities": [
+            {
+                "cityName": "Budapest"
+            }
+        ]
+    },
+    "Iceland": {
+        "code": "IS",
+        "cities": [
+            {
+                "cityName": "Reykjavik"
+            }
+        ]
+    },
+    "India": {
+        "code": "IN",
+        "cities": [
+            {
+                "cityName": "Delhi"
+            },
+            {
+                "cityName": "Mumbai"
+            },
+            {
+                "cityName": "Kolkata"
+            },
+            {
+                "cityName": "Bangalore"
+            },
+            {
+                "cityName": "Chennai"
+            },
+            {
+                "cityName": "Pune"
+            }
+        ]
+    },
+    "Indonesia": {
+        "code": "ID",
+        "cities": [
+            {
+                "cityName": "Jakarta"
+            }
+        ]
+    },
+    "Ireland": {
+        "code": "IE",
+        "cities": [
+            {
+                "cityName": "Dublin"
+            }
+        ]
+    },
+    "Israel": {
+        "code": "IL",
+        "cities": [
+            {
+                "cityName": "Tel Aviv-Yafo"
+            },
+            {
+                "cityName": "Jerusalem"
+            },
+            {
+                "cityName": "Haifa"
+            }
+        ]
+    },
+    "Italy": {
+        "code": "IT",
+        "cities": [
+            {
+                "cityName": "Rome"
+            },
+            {
+                "cityName": "Milan"
+            },
+            {
+                "cityName": "Naples"
+            },
+            {
+                "cityName": "Genoa"
+            },
+            {
+                "cityName": "Florence"
+            },
+            {
+                "cityName": "Venice"
+            }
+        ]
+    },
+    "Japan": {
+        "code": "JP",
+        "cities": [
+            {
+                "cityName": "Tokyo"
+            },
+            {
+                "cityName": "Osaka"
+            },
+            {
+                "cityName": "Nagoya"
+            },
+            {
+                "cityName": "Yokohama"
+            }
+        ]
+    },
+    "Malaysia": {
+        "code": "MY",
+        "cities": [
+            {
+                "cityName": "Kuala Lumpur"
+            },
+            {
+                "cityName": "Seberang Jaya"
+            }
+        ]
+    },
+    "Mexico": {
+        "code": "MX",
+        "cities": [
+            {
+                "cityName": "Mexico City"
+            },
+            {
+                "cityName": "Guadalajara"
+            },
+            {
+                "cityName": "Tijuana"
+            }
+        ]
+    },
+    "Netherlands": {
+        "code": "NL",
+        "cities": [
+            {
+                "cityName": "Amsterdam"
+            },
+            {
+                "cityName": "Rotterdam"
+            },
+            {
+                "cityName": "The Hague"
+            }
+        ]
+    },
+    "New Zealand": {
+        "code": "NZ",
+        "cities": [
+            {
+                "cityName": "Auckland"
+            },
+            {
+                "cityName": "Wellington"
+            },
+            {
+                "cityName": "Christchurch"
+            }
+        ]
+    },
+    "Nigeria": {
+        "code": "NG",
+        "cities": [
+            {
+                "cityName": "Lagos"
+            },
+            {
+                "cityName": "Kano"
+            },
+            {
+                "cityName": "Abuja"
+            }
+        ]
+    },
+    "Norway": {
+        "code": "NO",
+        "cities": [
+            {
+                "cityName": "Oslo"
+            },
+            {
+                "cityName": "Bergen"
+            }
+        ]
+    },
+    "Pakistan": {
+        "code": "PK",
+        "cities": [
+            {
+                "cityName": "Karachi"
+            },
+            {
+                "cityName": "Lahore"
+            },
+            {
+                "cityName": "Faisalabad"
+            },
+            {
+                "cityName": "Rawalpindi"
+            },
+            {
+                "cityName": "Islamabad"
+            }
+        ]
+    },
+    "Paraguay": {
+        "code": "PY",
+        "cities": [
+            {
+                "cityName": "Asuncion"
+            }
+        ]
+    },
+    "Philippines": {
+        "code": "PH",
+        "cities": [
+            {
+                "cityName": "Manila"
+            }
+        ]
+    },
+    "Poland": {
+        "code": "PL",
+        "cities": [
+            {
+                "cityName": "Warsaw"
+            },
+            {
+                "cityName": "Krakow"
+            }
+        ]
+    },
+    "Portugal": {
+        "code": "PT",
+        "cities": [
+            {
+                "cityName": "Lisbon"
+            },
+            {
+                "cityName": "Porto"
+            }
+        ]
+    },
+    "Romania": {
+        "code": "RO",
+        "cities": [
+            {
+                "cityName": "Bucharest"
+            }
+        ]
+    },
+    "Russia": {
+        "code": "RU",
+        "cities": [
+            {
+                "cityName": "Moscow"
+            },
+            {
+                "cityName": "Saint Petersburg"
+            }
+        ]
+    },
+    "Sri Lanka": {
+        "code": "LK",
+        "cities": [
+            {
+                "cityName": "Colombo"
+            }
+        ]
+    },
+    "Sweden": {
+        "code": "SE",
+        "cities": [
+            {
+                "cityName": "Stockholm"
+            },
+            {
+                "cityName": "Gothenburg"
+            }
+        ]
+    },
+    "Switzerland": {
+        "code": "CH",
+        "cities": [
+            {
+                "cityName": "Zurich"
+            },
+            {
+                "cityName": "Geneva"
+            },
+            {
+                "cityName": "Basel"
+            }
+        ]
+    },
+    "Taiwan": {
+        "code": "TW",
+        "cities": [
+            {
+                "cityName": "Taipei"
+            }
+        ]
+    },
+    "Thailand": {
+        "code": "TH",
+        "cities": [
+            {
+                "cityName": "Bangkok"
+            }
+        ]
+    },
+    "Turkey": {
+        "code": "TR",
+        "cities": [
+            {
+                "cityName": "Istanbul"
+            },
+            {
+                "cityName": "Ankara"
+            }
+        ]
+    },
+    "Ukraine": {
+        "code": "UA",
+        "cities": [
+            {
+                "cityName": "Kyiv"
+            },
+            {
+                "cityName": "Kharkiv"
+            },
+            {
+                "cityName": "Odesa"
+            }
+        ]
+    },
+    "United Arab Emirates": {
+        "code": "AE",
+        "cities": [
+            {
+                "cityName": "Dubai"
+            },
+            {
+                "cityName": "Abu Dhabi"
+            }
+        ]
+    },
+    "United Kingdom": {
+        "code": "GB",
+        "cities": [
+            {
+                "cityName": "London"
+            },
+            {
+                "cityName": "Birmingham"
+            },
+            {
+                "cityName": "Manchester"
+            },
+            {
+                "cityName": "Liverpool"
+            },
+            {
+                "cityName": "Leeds"
+            },
+            {
+                "cityName": "Nottingham"
+            },
+            {
+                "cityName": "Glasgow"
+            },
+            {
+                "cityName": "Bristol"
+            },
+            {
+                "cityName": "Leicester"
+            }
+        ]
+    },
+    "Uruguay": {
+        "code": "UY",
+        "cities": [
+            {
+                "cityName": "Montevideo"
+            },
+            {
+                "cityName": "Salto"
+            }
+        ]
+    }
+}
